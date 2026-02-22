@@ -1,0 +1,7 @@
+
+INFO:root:pipeline started
+ERROR:root:database failed
+INFO:root:pipeline started
+ERROR:root:database failed
+WARNING:root:memory is high
+
