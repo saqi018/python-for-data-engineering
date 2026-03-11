@@ -1,12 +1,6 @@
 """
 Python Loops (for & while) for Data Engineering
 
-About this file:
-- Explains loops in simple words
-- Uses real-world Data Engineering examples
-- Contains solved examples and practice tasks
-- Includes only important interview questions
-
 Topic Explanation (Simple):
 Loops repeat tasks again and again.
 In Data Engineering, loops are used to:
