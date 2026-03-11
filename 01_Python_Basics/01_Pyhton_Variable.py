@@ -1,10 +1,5 @@
 """
 Python Variables for Data Engineering
-Author: Saqib Khan
-Purpose:
-- Learn how to use variables in Python for ETL and data pipelines
-- Includes solved examples, unsolved practice, and interview questions
-- Beginner-friendly explanations inside comments
 
 Topic Explanation:
 - A variable is like a "box" to store data
