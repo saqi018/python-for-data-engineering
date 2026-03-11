@@ -1,12 +1,6 @@
 """
 Python Conditional Statements for Data Engineering
 
-About this file:
-- Explains conditional statements in simple words
-- Uses real-world Data Engineering examples
-- Contains solved examples and practice tasks
-- Includes only important interview questions
-
 Topic Explanation (Simple):
 Conditional statements help Python make decisions.
 In Data Engineering, we use them to:
