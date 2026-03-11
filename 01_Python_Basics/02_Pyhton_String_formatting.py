@@ -1,12 +1,6 @@
 """
 Python String Formatting for Data Engineering
 
-About this file:
-- Explains string formatting in simple words
-- Shows real-world Data Engineering examples
-- Contains solved examples and practice tasks
-- Includes only important interview questions
-
 Topic Explanation (Simple):
 String formatting means putting variable values inside text.
 In Data Engineering, we use it to create logs, status messages,
