@@ -1,12 +1,6 @@
 """
 Python Functions for Data Engineering
 
-About this file:
-- Explains Python functions in very simple words
-- Uses real-world Data Engineering examples
-- Includes solved examples, practice tasks, and interview questions
-- Helps build strong logic for ETL and data pipelines
-
 Topic Explanation (Simple):
 A function is a reusable block of code.
 Instead of writing the same code again and again,
