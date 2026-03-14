@@ -66,9 +66,8 @@ clean_data = list(filter(remove_empty, data))
 print("Clean Data:", clean_data)
 
 
-# ==================================================
 # 3️⃣ REDUCE: Combine everything into ONE value
-# ==================================================
+
 print("\nREDUCE EXAMPLES")
 
 values = [10, 20, 30]
