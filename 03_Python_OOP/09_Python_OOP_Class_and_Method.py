@@ -1,13 +1,6 @@
 """
 Python OOP – Class and Method (Beginner Friendly)
 
-About this file:
-- Explains class and method in very simple words
-- Uses real-life and Data Engineering examples
-- Contains solved examples
-- Contains unsolved practice
-- Includes only important interview questions
-
 Simple Definitions:
 - Class: A design / template.
 - Object: A real thing made from the class.

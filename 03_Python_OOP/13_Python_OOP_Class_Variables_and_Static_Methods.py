@@ -2,8 +2,7 @@
 Python OOP – Class Variables & Static Methods (Beginner Friendly)
 
 ==================================================
-TOPIC 1: CLASS VARIABLES
-TOPIC 2: STATIC METHODS
+TOPIC CLASS VARIABLES, STATIC METHODS
 ==================================================
 
 This file is written for:
