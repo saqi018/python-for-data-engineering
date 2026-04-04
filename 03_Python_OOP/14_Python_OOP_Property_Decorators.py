@@ -5,9 +5,9 @@ Python OOP – Property Decorators (@property)
 TOPIC: PROPERTY DECORATORS
 
 ------------------------------------------------
-WHAT IS @property?
+WHAT IS property?
 ------------------------------------------------
-@property allows us to:
+property allows us to:
 - Access a method like a variable
 - Protect internal data
 - Control how data is read
@@ -16,7 +16,7 @@ You READ it like a variable,
 but Python RUNS a function internally.
 
 ------------------------------------------------
-WHY WE USE @property
+WHY WE USE property
 ------------------------------------------------
 - To protect data
 - To avoid wrong values
