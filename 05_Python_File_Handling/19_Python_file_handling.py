@@ -11,7 +11,6 @@ Topics Covered:
 - Safe file handling
 - Folder-based file paths (important for Data Engineers)
 
-All files will be created inside: 19_Python_File_Handling/
 """
 
 print("=== FILE HANDLING PRACTICE ===")
@@ -122,7 +121,6 @@ Topics Covered:
 - Safe file handling
 - Folder-based file paths (important for Data Engineers)
 
-All files will be created inside: 19_Python_File_Handling/
 """
 
 print("=== FILE HANDLING PRACTICE ===")
